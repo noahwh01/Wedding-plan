@@ -22,3 +22,6 @@ body {
 h1 {
   font-family: 'Roboto', sans-serif;
 }
+ol {
+  font-size: 30px;
+}
